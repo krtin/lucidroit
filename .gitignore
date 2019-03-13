@@ -2,3 +2,4 @@ backend/nodejs/node_modules
 backend/conFusionServer
 database/mongodb/data
 naive
+*.DS_Store
