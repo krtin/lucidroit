@@ -1,4 +1,7 @@
 backend/nodejs/node_modules
+backend/nodejs/bin/cert.csr
+backend/nodejs/bin/certificate.pem
+backend/nodejs/bin/private.key
 backend/conFusionServer
 database/mongodb/data
 naive
